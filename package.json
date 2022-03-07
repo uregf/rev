@@ -1,0 +1,36 @@
+{
+  "name": "sick-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "axios": "^0.26.0",
+    "discord-badges": "^0.0.0",
+    "discord-banner": "^1.6.7",
+    "discord-banners": "^1.0.1",
+    "discord-banners-js": "^1.0.3",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-buttons-v13": "^4.0.2",
+    "discord-menus": "^1.0.8",
+    "discord.js": "^13.6.0",
+    "djs-anime": "^2.0.10",
+    "djs-games": "^2.1.10",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.4",
+    "node-fetch": "^3.2.1",
+    "snakecord": "^1.0.9",
+    "ultrax": "^2.0.1",
+    "websocket-heartbeat-js": "^1.0.13",
+    "yt-search": "^2.10.3"
+  }
+}
